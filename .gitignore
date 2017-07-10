@@ -1,13 +1,13 @@
 # =============== #
 # Unity generated #
 # =============== #
-App/
 Temp/
 Obj/
 Bin/
 UnityGenerated/
 Library/
 Assets/AssetStoreTools*
+App/
 UWP/
 project.json
 project.lock.json
